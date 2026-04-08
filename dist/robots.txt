@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-full-care-inc.dream-surge.com/sitemap-index.xml

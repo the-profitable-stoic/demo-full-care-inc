@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Full Care Inc.",
+    "phone": "+13175236183",
+    "category": "hardscaping contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Hardscaping Done Right.",
+      "heroSubline": "Full Care Inc. delivers enduring hardscapes across Central Indiana. Expert craftsmanship, built to last.",
+      "aboutTitle": "Built on Grit, Grounded in Quality",
+      "aboutText": [
+        "Full Care Inc. started with a simple goal: to provide Indianapolis homeowners with hardscaping that not only looks stunning but stands the test of time. We’re not just contractors; we’re your neighbors, invested in enhancing the beauty and value of our community.",
+        "Our approach is straightforward: meticulous planning, skilled execution, and unwavering commitment to quality. We understand the challenges posed by Indiana's climate – the freeze-thaw cycles that can wreak havoc on lesser hardscapes. That's why we use only the best materials and proven techniques to ensure your investment lasts.",
+        "We're proud to be a part of the Indianapolis community, and we believe in giving back. We regularly support local initiatives and organizations, because we understand that a strong community benefits everyone."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "We use only high-quality materials designed to withstand Indiana's harsh weather conditions."
+        },
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Our team of experienced professionals takes pride in delivering exceptional workmanship."
+        },
+        {
+          "title": "Custom Designs",
+          "description": "We work closely with you to create a unique hardscape that reflects your personal style."
+        },
+        {
+          "title": "Reliable Service",
+          "description": "We are committed to providing prompt and professional service, from initial consultation to project completion."
+        }
+      ],
+      "ctaHeadline": "Transform Your Outdoor Space",
+      "ctaSubline": "Ready to enhance your property with a beautiful and durable hardscape? Contact Full Care Inc. today for a free consultation."
+    },
+    "services": [
+      {
+        "slug": "paver-patios",
+        "name": "Paver Patios",
+        "shortDescription": "Create a stunning and functional outdoor living space with our custom paver patios.",
+        "description": "A paver patio from Full Care Inc. is more than just a surface; it's an investment in your home's value and your family's enjoyment. We understand the challenges of Indianapolis' climate, especially the freeze-thaw cycles that can destroy inferior installations. That’s why we start with a properly compacted base and use only the highest-quality pavers designed to withstand the elements. We install a wide variety of paver styles and colors, from classic brick to modern concrete, to match your home’s architecture and your personal style.\n\nWe handle every aspect of the project, from initial design and excavation to paver installation and sealing. Our experienced team ensures precise cuts, proper drainage, and a level surface that will last for years to come. Whether you envision a cozy backyard retreat or a spacious entertaining area, we can bring your paver patio dreams to life.\n\nConsider adding features like fire pits, seating walls, or outdoor kitchens to create the ultimate outdoor living experience. Full Care Inc. has the expertise to handle any paver patio project, big or small. We work closely with you to understand your needs and budget, providing a transparent and stress-free experience.",
+        "process": [
+          "Step 1: Initial Consultation and Design",
+          "Step 2: Site Preparation and Excavation",
+          "Step 3: Base Installation and Compaction",
+          "Step 4: Paver Installation and Sealing"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Living Space",
+          "Increased Property Value",
+          "Durable and Long-Lasting",
+          "Customizable Design Options"
+        ],
+        "faq": [
+          {
+            "question": "What type of pavers are best for Indianapolis weather?",
+            "answer": "Concrete pavers are generally the most durable option for our climate, as they are designed to withstand freeze-thaw cycles. We can also seal your pavers to further protect them from the elements."
+          },
+          {
+            "question": "How long does it take to install a paver patio?",
+            "answer": "The installation time depends on the size and complexity of the project. A typical patio can be completed in 3-5 days."
+          },
+          {
+            "question": "Do I need a permit for a paver patio?",
+            "answer": "Permit requirements vary depending on the city and the size of the patio. We can help you determine if a permit is required and assist with the application process."
+          }
+        ]
+      },
+      {
+        "slug": "retaining-walls",
+        "name": "Retaining Walls",
+        "shortDescription": "Stabilize your landscape and add visual appeal with our expertly built retaining walls.",
+        "description": "Full Care Inc. specializes in building durable and aesthetically pleasing retaining walls that solve erosion problems and enhance your property's curb appeal. We understand the unique soil conditions in Indianapolis, where clay soil and heavy rainfall can create significant challenges. Our retaining walls are engineered to withstand these conditions, providing long-lasting support and stability.\n\nWe offer a variety of retaining wall materials, including concrete blocks, natural stone, and timber. Each material has its own unique look and benefits, and we can help you choose the right option for your specific needs and budget. Our experienced team ensures proper drainage and backfilling to prevent water damage and ensure the wall's structural integrity.\n\nWhether you need a retaining wall to level a sloped yard, prevent soil erosion, or create a raised garden bed, Full Care Inc. has the expertise to deliver exceptional results. We take pride in our craftsmanship and attention to detail, ensuring that your retaining wall is both functional and beautiful.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Excavation and Foundation Preparation",
+          "Step 3: Wall Construction and Drainage Installation",
+          "Step 4: Backfilling and Compaction"
+        ],
+        "benefits": [
+          "Erosion Control and Soil Stabilization",
+          "Enhanced Landscape Aesthetics",
+          "Increased Property Value",
+          "Improved Usability of Sloped Yards"
+        ],
+        "faq": [
+          {
+            "question": "What materials are best for retaining walls in Indianapolis?",
+            "answer": "Concrete blocks and natural stone are both excellent choices, known for their durability and resistance to the elements. Timber retaining walls are a less expensive option but may require more maintenance."
+          },
+          {
+            "question": "How high can a retaining wall be without a permit?",
+            "answer": "The height limit for retaining walls without a permit varies by city. Contact your local building department for specific regulations."
+          },
+          {
+            "question": "How important is drainage for a retaining wall?",
+            "answer": "Proper drainage is crucial for the longevity of a retaining wall. Without adequate drainage, water pressure can build up behind the wall, leading to cracks and eventual failure."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-installations",
+        "name": "Driveway Installations",
+        "shortDescription": "Upgrade your curb appeal with a new concrete, paver, or gravel driveway built to last.",
+        "description": "Full Care Inc. provides professional driveway installation services, offering a range of materials to suit your style and budget. We understand that a driveway is more than just a place to park your car; it's a key element of your home's curb appeal. That's why we offer a variety of options, including concrete, pavers, and gravel, each with its own unique look and benefits.\n\nConcrete driveways are a popular choice for their durability and low maintenance. Paver driveways offer a more decorative and customizable look, with a wide range of colors and patterns available. Gravel driveways are a cost-effective option that can add a rustic charm to your property.\n\nOur experienced team handles every aspect of the driveway installation process, from excavation and grading to material installation and finishing. We ensure proper drainage and compaction to prevent cracking and settling, ensuring that your new driveway will last for years to come. We also address the impact of winter weather and proper sealing techniques for longevity.",
+        "process": [
+          "Step 1: Site Evaluation and Design",
+          "Step 2: Excavation and Grading",
+          "Step 3: Base Preparation and Compaction",
+          "Step 4: Material Installation and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable and Long-Lasting Surface",
+          "Variety of Material Options"
+        ],
+        "faq": [
+          {
+            "question": "Which driveway material is the most durable?",
+            "answer": "Concrete is generally considered the most durable option, followed by pavers. Gravel driveways are less durable but can be a cost-effective choice."
+          },
+          {
+            "question": "How often should I seal my concrete driveway?",
+            "answer": "Concrete driveways should be sealed every 2-3 years to protect them from the elements and prevent cracking."
+          },
+          {
+            "question": "What is the best way to maintain a gravel driveway?",
+            "answer": "Gravel driveways require regular grading to maintain a level surface. You may also need to add gravel periodically to replace material that has been lost due to erosion or compaction."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-fire-pits",
+        "name": "Outdoor Fire Pits",
+        "shortDescription": "Extend your outdoor season with a custom-built fire pit – the perfect gathering spot.",
+        "description": "Full Care Inc. designs and builds custom outdoor fire pits that create a warm and inviting atmosphere for your backyard. Imagine cozy evenings spent with family and friends, gathered around a crackling fire. Our fire pits are designed to be both functional and beautiful, adding a touch of elegance to your outdoor space.\n\nWe offer a variety of fire pit styles and materials, including natural stone, brick, and concrete blocks. We can also incorporate features like seating walls and built-in storage for firewood. Our experienced team ensures that your fire pit is built to code and meets all safety regulations.\n\nWhether you prefer a traditional wood-burning fire pit or a convenient gas-powered option, Full Care Inc. can bring your vision to life. We work closely with you to understand your needs and budget, providing a personalized design that complements your existing landscape.",
+        "process": [
+          "Step 1: Design Consultation and Material Selection",
+          "Step 2: Site Preparation and Excavation",
+          "Step 3: Fire Pit Construction and Installation",
+          "Step 4: Safety Inspection and Final Touches"
+        ],
+        "benefits": [
+          "Extended Outdoor Season",
+          "Enhanced Ambiance and Atmosphere",
+          "Increased Property Value",
+          "Perfect Gathering Spot for Family and Friends"
+        ],
+        "faq": [
+          {
+            "question": "What type of fire pit is safest?",
+            "answer": "Gas-powered fire pits are generally considered safer than wood-burning fire pits, as they eliminate the risk of flying embers and uncontrolled flames. However, both types of fire pits can be safe if used properly."
+          },
+          {
+            "question": "Do I need a permit for an outdoor fire pit?",
+            "answer": "Permit requirements vary depending on the city and the size of the fire pit. Contact your local building department for specific regulations."
+          },
+          {
+            "question": "What is the best way to maintain a fire pit?",
+            "answer": "Regularly clean your fire pit to remove ash and debris. Inspect the fire pit for cracks or damage and repair as needed. Always follow safety guidelines when using your fire pit."
+          }
+        ]
+      },
+      {
+        "slug": "outdoor-kitchens",
+        "name": "Outdoor Kitchens",
+        "shortDescription": "Elevate your outdoor entertaining with a custom-designed outdoor kitchen.",
+        "description": "Full Care Inc. specializes in creating custom outdoor kitchens that transform your backyard into a culinary paradise. Imagine grilling up your favorite meals while enjoying the fresh air and sunshine. Our outdoor kitchens are designed to be both functional and stylish, providing everything you need to cook, dine, and entertain outdoors.\n\nWe offer a wide range of features and appliances, including grills, smokers, refrigerators, sinks, and countertops. We can also incorporate custom storage solutions and seating areas to create a complete outdoor living space. Our experienced team works closely with you to design an outdoor kitchen that meets your specific needs and budget.\n\nFrom simple grill stations to elaborate outdoor kitchens with all the bells and whistles, Full Care Inc. can bring your vision to life. We use only high-quality materials and appliances to ensure that your outdoor kitchen is both durable and beautiful.",
+        "process": [
+          "Step 1: Design Consultation and Planning",
+          "Step 2: Site Preparation and Construction",
+          "Step 3: Appliance Installation and Hookups",
+          "Step 4: Finishing Touches and Inspection"
+        ],
+        "benefits": [
+          "Enhanced Outdoor Entertaining",
+          "Increased Property Value",
+          "Convenient Outdoor Cooking Space",
+          "Customizable Design Options"
+        ],
+        "faq": [
+          {
+            "question": "What appliances are essential for an outdoor kitchen?",
+            "answer": "A grill is the most essential appliance, followed by a refrigerator and a sink. Other popular options include smokers, side burners, and ice makers."
+          },
+          {
+            "question": "What materials are best for outdoor kitchen countertops?",
+            "answer": "Granite, concrete, and stainless steel are all excellent choices for outdoor kitchen countertops, as they are durable and weather-resistant."
+          },
+          {
+            "question": "How do I protect my outdoor kitchen from the elements?",
+            "answer": "Consider installing a pergola or awning to provide shade and protection from rain. You can also use appliance covers to protect your grill and other appliances when not in use."
+          }
+        ]
+      },
+      {
+        "slug": "walkways-and-steps",
+        "name": "Walkways & Steps",
+        "shortDescription": "Enhance safety and accessibility with beautifully crafted walkways and steps.",
+        "description": "Full Care Inc. designs and installs walkways and steps that are both functional and aesthetically pleasing. We understand that walkways and steps are essential for providing safe and easy access to your home and garden. Our walkways and steps are built to last, using high-quality materials and expert craftsmanship.\n\nWe offer a variety of materials, including pavers, natural stone, and concrete. We can also incorporate features like lighting and landscaping to enhance the beauty and functionality of your walkways and steps. Our experienced team ensures that your walkways and steps are built to code and meet all safety regulations.\n\nWhether you need a simple walkway to connect your driveway to your front door or a set of steps to navigate a sloped yard, Full Care Inc. can bring your vision to life. We work closely with you to understand your needs and budget, providing a personalized design that complements your existing landscape.",
+        "process": [
+          "Step 1: Site Assessment and Design",
+          "Step 2: Excavation and Base Preparation",
+          "Step 3: Material Installation and Leveling",
+          "Step 4: Finishing Touches and Safety Inspection"
+        ],
+        "benefits": [
+          "Improved Safety and Accessibility",
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Variety of Material Options"
+        ],
+        "faq": [
+          {
+            "question": "What are the most important considerations for walkway design?",
+            "answer": "Safety, accessibility, and aesthetics are all important considerations. Walkways should be wide enough to accommodate pedestrians comfortably, and they should be well-lit to prevent accidents."
+          },
+          {
+            "question": "What materials are best for walkways in Indianapolis?",
+            "answer": "Pavers, natural stone, and concrete are all excellent choices for walkways in Indianapolis, as they are durable and weather-resistant."
+          },
+          {
+            "question": "How can I prevent my walkways from becoming slippery in the winter?",
+            "answer": "Use de-icing salts or sand to prevent ice from forming on your walkways. You can also install heated walkways to melt snow and ice automatically."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "Full Care Inc. is proud to offer our hardscaping services to the residents of Carmel, Indiana. Known for its upscale neighborhoods and well-manicured landscapes, Carmel presents unique opportunities for enhancing outdoor spaces. From elegant patios designed for entertaining to durable walkways that withstand the Indiana winters, we provide custom solutions tailored to the specific needs of Carmel homeowners.\n\nWe understand the architectural styles prevalent in Carmel's 1980s-2000s developments and can seamlessly integrate new hardscaping features with existing designs. Our team uses high-quality materials and proven techniques to create beautiful and functional outdoor living areas that will enhance your property's value and enjoyment for years to come. Preparing for the cold winters with snow and ice is also important for hardscape design and material selection.",
+        "localContext": "Carmel is an affluent city known for its roundabouts, arts district, and family-friendly atmosphere, featuring many upscale 1980s-2000s developments.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Fishers",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "Full Care Inc. is your trusted hardscaping partner in Fishers, Indiana. As one of the fastest-growing communities in Indiana, Fishers boasts a variety of modern homes and vibrant neighborhoods. We specialize in creating outdoor spaces that complement the contemporary aesthetic of Fishers, from stylish patios and outdoor kitchens to functional retaining walls and walkways.\n\nWe understand the unique needs of Fishers homeowners and are committed to providing exceptional service and craftsmanship. Our team works closely with you to design and install hardscaping features that enhance your property's curb appeal and create inviting outdoor living areas. Considering the climate with cold winters with snow and ice is paramount for durability.",
+        "localContext": "Fishers is a rapidly growing city known for its planned communities, excellent schools, and family-oriented lifestyle, primarily featuring newer 1990s-2020s developments.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Carmel",
+          "Noblesville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "Full Care Inc. provides expert hardscaping services in Noblesville, Indiana. With its rich history and charming downtown area, Noblesville offers a unique blend of old and new. We are experienced in working with a variety of architectural styles, from historic homes in the Courthouse Square area to modern residences in newer developments.\n\nOur team is dedicated to preserving the character of Noblesville while creating beautiful and functional outdoor spaces for our clients. Whether you're looking to restore a historic patio or create a brand-new outdoor living area, we have the expertise and experience to bring your vision to life. Durability of material choices is important due to the area's cold winters with snow and ice.",
+        "localContext": "Noblesville is a historic city with a charming downtown area centered around Courthouse Square, featuring a mix of historic homes and newer developments.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Indianapolis",
+        "slug": "indianapolis-in",
+        "state": "IN",
+        "content": "Full Care Inc. is proud to serve the hardscaping needs of Indianapolis, Indiana. As the state capital and largest city, Indianapolis presents a diverse range of architectural styles and landscaping needs. From downtown condos to suburban homes, we offer custom hardscaping solutions to enhance any property.\n\nWe understand the unique challenges and opportunities of working in Indianapolis and are committed to providing exceptional service and craftsmanship. Our team works closely with you to design and install hardscaping features that meet your specific needs and enhance your property's value. The Indianapolis climate with cold winters with snow and ice requires careful material selection.",
+        "localContext": "Indianapolis is a large, diverse city with a thriving downtown area and a wide variety of residential neighborhoods.",
+        "nearbyAreas": [
+          "Carmel",
+          "Fishers",
+          "Greenwood"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "Full Care Inc. extends its premier hardscaping services to Zionsville, Indiana. Known for its charming village atmosphere and upscale homes, Zionsville demands high-quality craftsmanship and attention to detail. We specialize in creating outdoor spaces that complement the unique character of Zionsville, from quaint patios to elegant walkways.\n\nWe understand the aesthetic preferences of Zionsville homeowners and are committed to providing exceptional service and superior results. Our team uses the finest materials and proven techniques to create beautiful and functional outdoor living areas that will enhance your property's value and enjoyment. The cold winters with snow and ice require specific design considerations.",
+        "localContext": "Zionsville is a charming town known for its brick Main Street, boutique shops, and upscale residential areas.",
+        "nearbyAreas": [
+          "Carmel",
+          "Lebanon",
+          "Whitestown"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "Full Care Inc. is delighted to offer hardscaping services to the growing community of Westfield, Indiana. With its mix of established neighborhoods and new developments, Westfield presents a variety of opportunities for enhancing outdoor spaces. We specialize in creating custom hardscaping solutions that meet the unique needs of Westfield homeowners.\n\nOur team is experienced in working with a variety of architectural styles and landscaping preferences. Whether you're looking to create a relaxing patio, a functional outdoor kitchen, or a durable walkway, we have the expertise and resources to bring your vision to life. Westfield's cold winters with snow and ice should be carefully considered during material selection.",
+        "localContext": "Westfield is a rapidly growing city with a mix of established neighborhoods and new residential developments.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "Sheridan"
+        ]
+      },
+      {
+        "city": "Greenwood",
+        "slug": "greenwood-in",
+        "state": "IN",
+        "content": "Full Care Inc. proudly serves the hardscaping needs of Greenwood, Indiana. As a thriving suburb of Indianapolis, Greenwood offers a variety of residential styles and landscaping opportunities. We provide custom hardscaping solutions tailored to the specific needs of Greenwood homeowners, from patios and walkways to retaining walls and outdoor living areas.\n\nWe understand the importance of creating functional and aesthetically pleasing outdoor spaces. Our team works closely with you to design and install hardscaping features that enhance your property's curb appeal and create inviting outdoor living areas for years to come. Greenwood experiences cold winters with snow and ice, which should be considered.",
+        "localContext": "Greenwood is a thriving suburb of Indianapolis with a mix of residential neighborhoods, commercial areas, and parks.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Franklin",
+          "Whiteland"
+        ]
+      },
+      {
+        "city": "Lawrence",
+        "slug": "lawrence-in",
+        "state": "IN",
+        "content": "Full Care Inc. is pleased to extend our hardscaping services to Lawrence, Indiana. As a diverse and growing community, Lawrence presents a variety of opportunities for enhancing outdoor spaces. We specialize in providing custom hardscaping solutions that meet the unique needs of Lawrence homeowners and businesses.\n\nOur team is committed to delivering exceptional service and craftsmanship. Whether you're looking to create a welcoming entrance, a functional patio, or a durable walkway, we have the expertise and resources to bring your vision to life. The climate in Lawrence with cold winters with snow and ice affects project planning.",
+        "localContext": "Lawrence is a diverse city located northeast of Indianapolis, known for its parks, schools, and community events.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "Fishers",
+          "Speedway"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Paver Patio",
+        "text": "Full Care Inc. transformed our backyard with a beautiful paver patio! The team was professional, efficient, and the quality of work is outstanding. We've already had so many compliments. Highly recommend!",
+        "date": "2025-07-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Retaining Wall",
+        "text": "We had Full Care Inc. build a retaining wall to address a serious erosion problem in our yard. They did a great job, and the wall looks fantastic. There was a slight delay due to weather, but they communicated clearly throughout the process.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 5,
+        "service": "Driveway Installation",
+        "text": "Our old asphalt driveway was cracked and crumbling. Full Care Inc. installed a new concrete driveway that looks amazing. The crew was professional and courteous, and they finished the job on time and within budget.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Outdoor Fire Pit",
+        "text": "We love our new outdoor fire pit! Full Care Inc. helped us design a custom fire pit that perfectly complements our backyard. It's the perfect spot for relaxing and entertaining.",
+        "date": "2025-04-01"
+      },
+      {
+        "name": "Ashley S.",
+        "rating": 4,
+        "service": "Outdoor Kitchen",
+        "text": "Full Care Inc. built our dream outdoor kitchen. The design process was collaborative, and the finished product is exactly what we wanted. There were a couple of minor issues during installation, but they were quickly resolved.",
+        "date": "2025-03-18"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Walkways & Steps",
+        "text": "Full Care Inc. installed new walkways and steps leading to our front door. The work was excellent, and the new walkways have greatly improved the curb appeal of our home. The crew was punctual and professional.",
+        "date": "2025-02-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Indianapolis Hardscaping Contractor",
+        "description": "Full Care Inc. provides expert hardscaping services in Indianapolis. Patios, walls, driveways & more. Free quotes!"
+      },
+      "about": {
+        "title": "About Full Care Inc. | Hardscaping Experts",
+        "description": "Learn about Full Care Inc.'s commitment to quality hardscaping in Indianapolis. Experienced, reliable, and community-focused."
+      },
+      "services": {
+        "title": "Indianapolis Hardscaping Services | Full Care Inc.",
+        "description": "Full Care Inc. offers comprehensive hardscaping services: patios, retaining walls, driveways, fire pits, and more in Indianapolis."
+      },
+      "contact": {
+        "title": "Contact Full Care Inc. | Indianapolis Hardscaping",
+        "description": "Contact Full Care Inc. for hardscaping services in Indianapolis. Get a free quote for your patio, wall, or driveway project."
+      },
+      "reviews": {
+        "title": "Full Care Inc. Reviews | Indianapolis Hardscaping",
+        "description": "Read reviews of Full Care Inc.'s hardscaping services in Indianapolis. See what our customers are saying about our quality and service."
+      },
+      "service-areas": {
+        "title": "Hardscaping Service Areas | Full Care Inc.",
+        "description": "Full Care Inc. provides hardscaping services in Indianapolis, Carmel, Fishers, and Noblesville. Contact us for a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "paver-patios": "/images/service-paver-patios.webp",
+      "retaining-walls": "/images/service-retaining-walls.webp",
+      "driveway-installations": "/images/service-driveway-installations.webp",
+      "outdoor-fire-pits": "/images/service-outdoor-fire-pits.webp",
+      "outdoor-kitchens": "/images/service-outdoor-kitchens.webp",
+      "walkways-and-steps": "/images/service-walkways-and-steps.webp"
+    },
+    "servicesResponsive": {
+      "paver-patios": {
+        "src": "/images/service-paver-patios.webp",
+        "srcset": "/images/service-paver-patios-400w.webp 400w, /images/service-paver-patios-800w.webp 800w, /images/service-paver-patios-1200w.webp 1200w, /images/service-paver-patios.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "retaining-walls": {
+        "src": "/images/service-retaining-walls.webp",
+        "srcset": "/images/service-retaining-walls-400w.webp 400w, /images/service-retaining-walls-800w.webp 800w, /images/service-retaining-walls-1200w.webp 1200w, /images/service-retaining-walls.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-installations": {
+        "src": "/images/service-driveway-installations.webp",
+        "srcset": "/images/service-driveway-installations-400w.webp 400w, /images/service-driveway-installations-800w.webp 800w, /images/service-driveway-installations-1200w.webp 1200w, /images/service-driveway-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-fire-pits": {
+        "src": "/images/service-outdoor-fire-pits.webp",
+        "srcset": "/images/service-outdoor-fire-pits-400w.webp 400w, /images/service-outdoor-fire-pits-800w.webp 800w, /images/service-outdoor-fire-pits-1200w.webp 1200w, /images/service-outdoor-fire-pits.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "outdoor-kitchens": {
+        "src": "/images/service-outdoor-kitchens.webp",
+        "srcset": "/images/service-outdoor-kitchens-400w.webp 400w, /images/service-outdoor-kitchens-800w.webp 800w, /images/service-outdoor-kitchens-1200w.webp 1200w, /images/service-outdoor-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "walkways-and-steps": {
+        "src": "/images/service-walkways-and-steps.webp",
+        "srcset": "/images/service-walkways-and-steps-400w.webp 400w, /images/service-walkways-and-steps-800w.webp 800w, /images/service-walkways-and-steps-1200w.webp 1200w, /images/service-walkways-and-steps.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
